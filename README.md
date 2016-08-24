@@ -7,10 +7,10 @@ This repository contains MATLAB implementations of a variety of popular machine 
 
 List of algorithms implemented:
 
-1. proximal gradient method
-2. stochastic gradient descent
-3. backpropagation
-4. low-rank matrix reconstruction from partial sampling
+1. [proximal gradient method](https://en.wikipedia.org/wiki/Proximal_gradient_method)
+2. [stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+3. [backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+4. [low-rank matrix reconstruction from partial sampling](https://en.wikipedia.org/wiki/Matrix_completion)
 
 All of the algorithms are heavily commented (possibly to a fault), but I wanted someone in the midst of a machine learning class to be able to read through the code and understand it decently well.  Although I have done my best to implement these algorithms with efficiency in mind (within the confines of MATLAB's inherent deficiencies in this regard), this repository is far more valuable as a teaching tool than a performance-centric library.
 
